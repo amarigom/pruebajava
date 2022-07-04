@@ -25,6 +25,8 @@ public class Project1 {
         System.out.println("la suma es : "+ suma (2,8));
         coche micoche = new coche(8);
         micoche.agregar_puerta();
+        micoche.agregar_puerta();
+        micoche.agregar_puerta();
         micoche.mostrarnumero_puertas();
         
     }
